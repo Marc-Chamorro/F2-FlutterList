@@ -1,0 +1,37 @@
+{
+    "Croquetes": [
+      {
+        "name": "Croquetes",
+        "img": "https://www.labonacarn.com/img/articulos/_108g.jpg",
+        "level": "The perfect food form ever existed, ready to be consumed on the go or at home, infinite flavours with infinite possibilities"
+      }
+    ],
+    "Kebab": [
+      {
+        "name": "Kebab",
+        "img": "https://www.expomaquinaria.es/wiki/wp-content/uploads/2021/07/durum-kebab.jpg",
+        "level": "Most recurrent option when searching for something to eat at 3:00 at the morning"
+      }
+    ],
+    "Hamburguesa": [
+      {
+        "name": "Hamburguesa",
+        "img": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/FBB73F91-2A4F-475E-BB25-CE12D72C9D19/Derivates/d1eddcbc-5604-4592-bb85-1ef70ee15f96.jpg",
+        "level": "Preferably consumed at restaurants with a perfect one for each consumer, can be consumed on the go"
+      }
+    ],
+    "Pizza": [
+      {
+        "name": "Pizza",
+        "img": "https://w6h5a5r4.rocketcdn.me/wp-content/uploads/2019/06/pizza-con-chorizo-jamon-y-queso-1080x671.jpg",
+        "level": "Perfect for sharing with other people and combine diferent pizza flavours with them, should only be consumed while sit on a table"
+      }
+    ],
+    "Patates": [
+      {
+        "name": "Patates",
+        "img": "https://www.seriouseats.com/thmb/_BkW9V2wK3Zed-zQAETkRSJS8ac=/1500x1125/filters:fill(auto,1)/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2018__04__20180309-french-fries-vicky-wasik-15-5a9844742c2446c7a7be9fbd41b6e27d.jpg",
+        "level": "Easy to share, easy to access them, enjoyed by everyone with an amazing feature that allows to introduce sausaces into them"
+      }
+    ]
+  }
